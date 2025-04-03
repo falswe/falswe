@@ -1,16 +1,16 @@
 # [@falswe](https://github.com/falswe)
 
-Embedded systems engineer with expertise in firmware development and hardware-software integration. Currently pursuing an MSc in Computer Science at the University of Trento.
+Embedded systems engineer with expertise in firmware development and hardware-software integration. Currently doing a MSc in Computer Science at the University of Trento.
 
 ## Repositories
 <!-- 
-### [uni.lpw.zephyr-sam.ctx-protocols](https://github.com/falswe/uni.lpw.zephyr-sam.ctx-protocols)
+### [uni.pc.zephyr-sam.ctx-protocols](https://github.com/falswe/uni.pc.zephyr-sam.ctx-protocols)
 Implementation of concurrent transmission protocols in Zephyr OS based communication framework.
-`C` `Zephyr RTOS` `Wireless Communication`
+`C` `Zephyr RTOS` `Glossy` `Crystal` `Project Course`
 
 ### [uni.lpw.zephyr-sam.logging](https://github.com/falswe/uni.lpw.zephyr-sam.logging)
 Custom logging implementation for Zephyr OS based communication framework.
-`C` `Zephyr RTOS` `Embedded Systems` -->
+`C` `Zephyr RTOS` `Low Power Wireless Networking for the Internet of Things` -->
 
 ### [uni.ap.rust_network-simulation](https://github.com/falswe/uni.ap.rust_network-simulation)
 Network simulator with custom clients, servers, nodes and GUI interface.  
@@ -49,27 +49,6 @@ High-performance implementation of a Futoshiki puzzle solver.
                                                         │ • Docker  │
                                                         └───────────┘
 ```
-<!-- - Firmware Development
-  - C/C++
-  - Python
-  - Rust
-
-- Firmware Platforms
-  - Bluetooth Low Energy
-  - Zephyr RTOS
-
-- Hardware Development 
-  - PCB layout
-  - VHDL
-
-- Hardware Platforms
-  - Nordic nRF
-  - onsemi
-  - ST
-
-- DevOps
-  - Git
-  - Docker -->
 
 ## Professional Experience
 
