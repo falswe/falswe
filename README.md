@@ -67,7 +67,3 @@ Track: Science and Technology, Area: Systems and Networks
 
 **BSc in Hardware-Software-Design** | University of Applied Sciences Upper Austria (2013-2017)  
 Thesis: "Record, Save and Play Audio Data with the BBC micro::bit"  
-
-## Contact
-
-- 📧 we.f@posteo.net
