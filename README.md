@@ -1,5 +1,3 @@
-# [@falswe](https://github.com/falswe)
-
 ## Repositories
 <!-- 
 ### [uni.pc.zephyr-sam.ctx-protocols](https://github.com/falswe/uni.pc.zephyr-sam.ctx-protocols)
