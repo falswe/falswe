@@ -1,7 +1,5 @@
 # [@falswe](https://github.com/falswe)
 
-Embedded systems engineer with expertise in firmware development and hardware-software integration. Currently doing a MSc in Computer Science at the University of Trento.
-
 ## Repositories
 <!-- 
 ### [uni.pc.zephyr-sam.ctx-protocols](https://github.com/falswe/uni.pc.zephyr-sam.ctx-protocols)
