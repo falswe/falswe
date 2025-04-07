@@ -66,5 +66,5 @@ High-performance implementation of a Futoshiki puzzle solver.
 **MSc in Computer Science** | University of Trento (2023-Present)  
 Track: Science and Technology, Area: Systems and Networks
 
-**BSc in Hardware-Software-Design** | University of Applied Sciences Upper Austria (2013-2017)  
+**BSc in Hardware-Software-Design** | University of Applied Sciences Upper Austria, Campus Hagenberg (2013-2017)  
 Thesis: "Record, Save and Play Audio Data with the BBC micro::bit"  
