@@ -27,7 +27,7 @@ Implementation of a quorum-based total-order broadcast protocol.
 
 ### [uni.sdcr.human-robot-handover](https://github.com/falswe/uni.sdcr.human-robot-handover)
 Simulation of human-robot handover scenario using Gazebo and ROS2.  
-`C++` `ROS2` `Gazebo` `Robotics` `Software Development for Collaborative Robots`
+`C++` `ROS2` `Gazebo` `Robotics` `Software Development for Collaborative Robotics`
 
 ### [uni.hpc.futoshiki](https://github.com/falswe/uni.hpc.futoshiki)
 High-performance implementation of a Futoshiki puzzle solver.  
