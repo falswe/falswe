@@ -43,7 +43,7 @@ High-performance implementation of a Futoshiki puzzle solver.
 └─────────────────────────┘  ┌─ Hardware Platforms ───┐
 ┌─ Firmware Platforms ────┐  │ • Nordic nRF           │
 │ • Bluetooth Low Energy  │  │ • onsemi               │
-│ • Zephyr RTOS           │  │ • ST                   │
+│ • Zephyr RTOS           │  │ • STMicroelectronics   │
 └─────────────────────────┘  └────────────────────────┘
                                                         ┌─ DevOps ──┐
                                                         │ • Git     │
