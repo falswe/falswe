@@ -9,7 +9,7 @@ How to use the university's VPN on Linux with a more robust open-source alternat
 Implementation of concurrent transmission protocols in Zephyr OS based communication framework.
 `C` `Zephyr RTOS` `Glossy` `Crystal` `Project Course` -->
 
-### [uni.lpw.zephyr-sam.logging](https://github.com/falswe/uni.lpw.zephyr-sam.logging)
+### [uni.lpw.zephyr-sam.logging](https://github.com/falswe/uni.lpw.sam.logging)
 Custom logging implementation for Zephyr OS based communication framework.
 `C` `Zephyr RTOS` `Low Power Wireless Networking for the Internet of Things`
 
