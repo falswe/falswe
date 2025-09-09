@@ -9,27 +9,27 @@ How to use the university's VPN on Linux with a more robust open-source alternat
 Implementation of concurrent transmission protocols in Zephyr OS based communication framework.
 `C` `Zephyr RTOS` `Glossy` `Crystal` `Project Course` -->
 
-### [uni.lpw.sam-logging](https://github.com/falswe/uni.lpw.sam-logging)
+### [uni.lpw.sam-logging](https://github.com/falswe/uni.lpw.sam-logging) *ongoing*
 Custom logging implementation for Zephyr OS based communication framework.
 `C` `Zephyr RTOS` `Low Power Wireless Networking for the Internet of Things`
 
-### [uni.ap.rust_network-simulation](https://github.com/falswe/uni.ap.rust_network-simulation)
+### [uni.ap.rust_network-simulation](https://github.com/falswe/uni.ap.rust_network-simulation) *Grade: 30 / 30*
 Network simulator with custom clients, servers, nodes and GUI interface.  
 `Rust` `Advanced Programming`
 
-### [uni.ngn.kathara-wireguard_site2site](https://github.com/falswe/uni.ngn.kathara-wireguard_site2site)
+### [uni.ngn.kathara-wireguard_site2site](https://github.com/falswe/uni.ngn.kathara-wireguard_site2site) *Grade: 30 cum laude / 30*
 Configuration of WireGuard Site-to-Site VPN using Kathara/Docker.  
 `Wireguard` `Docker` `Kathara` `Next Generation Networks`
 
-### [uni.ds.quorum-based_total-order_broadcast](https://github.com/falswe/uni.ds.quorum-based_total-order_broadcast)
+### [uni.ds.quorum-based_total-order_broadcast](https://github.com/falswe/uni.ds.quorum-based_total-order_broadcast) *Grade: 29 / 30*
 Implementation of a quorum-based total-order broadcast protocol.  
 `Java` `Distributed Systems`
 
-### [uni.sdcr.human-robot-handover](https://github.com/falswe/uni.sdcr.human-robot-handover)
+### [uni.sdcr.human-robot-handover](https://github.com/falswe/uni.sdcr.human-robot-handover) *Grade: 30 / 30*
 Simulation of human-robot handover scenario using Gazebo and ROS2.  
 `C++` `ROS2` `Gazebo` `Robotics` `Software Development for Collaborative Robotics`
 
-### [uni.hpc.futoshiki](https://github.com/falswe/uni.hpc.futoshiki)
+### [uni.hpc.futoshiki](https://github.com/falswe/uni.hpc.futoshiki) *Grade: 30 cum laude / 30*
 High-performance implementation of a Futoshiki puzzle solver.  
 `C` `MPI` `openMP` `High Performance Computing`
 
