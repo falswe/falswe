@@ -4,14 +4,14 @@
 How to use the university's VPN on Linux with a more robust open-source alternative.
 
 ## [Repositories](https://github.com/falswe?tab=repositories)
-<!-- 
-### [uni.pc.zephyr-sam.ctx-protocols](https://github.com/falswe/uni.pc.zephyr-sam.ctx-protocols)
-Implementation of concurrent transmission protocols in Zephyr OS based communication framework.
-`C` `Zephyr RTOS` `Glossy` `Crystal` `Project Course` -->
 
-### [uni.lpw.sam-logging](https://github.com/falswe/uni.lpw.sam-logging) *Ongoing*
+### [uni.pc.sam-protocols](https://github.com/falswe/uni.pc.sam-protocols) *Ongoing*
+Implementation of synchronous transmission protocols (Glossy, Crystal) in Zephyr OS based communication framework.
+`C` `Zephyr RTOS` `SAM` `Synchronous Transmission` `Glossy` `Crystal` `Project Course`
+
+### [uni.lpw.sam-logging](https://github.com/falswe/uni.lpw.sam-logging) *Grade: 30 cum laude / 30*
 Custom logging implementation for Zephyr OS based communication framework.
-`C` `Zephyr RTOS` `Low Power Wireless Networking for the Internet of Things`
+`C` `Zephyr RTOS` `SAM` `Low Power Wireless Networking for the Internet of Things`
 
 ### [uni.ap.rust_network-simulation](https://github.com/falswe/uni.ap.rust_network-simulation) *Grade: 30 / 30*
 Network simulator with custom clients, servers, nodes and GUI interface.  
