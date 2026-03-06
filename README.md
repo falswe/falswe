@@ -6,8 +6,8 @@ How to use the university's VPN on Linux with a more robust open-source alternat
 ## [Repositories](https://github.com/falswe?tab=repositories)
 
 ### [uni.pc.sam-protocols](https://github.com/falswe/uni.pc.sam-protocols) *Ongoing*
-Implementation of synchronous transmission protocols (Glossy, Crystal) in Zephyr OS based communication framework.  
-`C` `Zephyr RTOS` `SAM` `Synchronous Transmission` `Glossy` `Crystal` `Project Course`
+Implementation of synchronous transmission protocols (Crystal, Weaver) in Zephyr OS based communication framework.  
+`C` `Zephyr RTOS` `SAM` `Synchronous Transmission` `Glossy` `Crystal` `Weaver` `Project Course`
 
 ### [uni.lpw.sam-logging](https://github.com/falswe/uni.lpw.sam-logging) *Grade: 30 cum laude / 30*
 Custom logging implementation for Zephyr OS based communication framework.  
