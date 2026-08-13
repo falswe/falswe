@@ -5,6 +5,10 @@ How to use the university's VPN on Linux with a more robust open-source alternat
 
 ## [Repositories](https://github.com/falswe?tab=repositories)
 
+### [uni.thesis.i2c-core](https://github.com/falswe/uni.thesis.i2c-core) *Ongoing*
+Protocol specification, Python host tooling, and hardware conformance test suite for validating I²C bridge firmware.  
+`Python` `Pytest` `I²C` `Protocol Design` `STM32` `Master's Thesis`
+
 ### [uni.pc.sam-protocols](https://github.com/falswe/uni.pc.sam-protocols) *Ongoing*
 Implementation of synchronous transmission protocols (Crystal, Weaver) in Zephyr OS based communication framework.  
 `C` `Zephyr RTOS` `SAM` `Synchronous Transmission` `Glossy` `Crystal` `Weaver` `Project Course`
